@@ -14,3 +14,4 @@ node {
         sh "ls -l"
         sh "php -S locationhost:5000"    
     }
+}
