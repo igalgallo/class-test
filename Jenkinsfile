@@ -12,6 +12,6 @@ node {
     
     stage('Apply changes to the environment'){
         sh "ls -l"
-        sh "php -S locationhost:5000"    
+    
     }
 }
